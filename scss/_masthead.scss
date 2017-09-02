@@ -1,0 +1,13 @@
+// Styling for the masthead
+header.masthead {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+@media(max-width:768px) {
+  header.masthead {
+     .intro-carousel {
+      padding-top: 56px;
+    }
+  }
+}
